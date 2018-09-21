@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ApiCallingDemo</string>
+
+    <!--Adding Components Text From below-->
+    <string name="btn_login">SUBMIT</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="edt_email">Enter Email Address</string>
+    <string name="edt_password">Enter Password</string>
+    <string name="menu_logout">LogOut</string>
+
+    <string name="ble_uuid">CDB7950D-73F1-4D4D-8E47-C090502DBD63</string>
+
+</resources>
